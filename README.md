@@ -1,8 +1,7 @@
-# README – Python Case Studies
-
-## Introduction
-This project contains 10 Python case studies designed to solve real-world problems using basic programming concepts.
-
+Name: Gudepu Keerthi Ojaswitha
+Roll No: 26001524
+Branch:CSE[Data science]
+Section: 11
 ## Topics Covered
 1. University Scholarship Allocation
 2. Progressive Electricity Billing
